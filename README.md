@@ -1,2 +1,3 @@
 # vsc_acc
-accounts_app
+
+A new Flutter project.
